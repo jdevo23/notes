@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "869be19990318771",
+        "id": "7ae1aba6a362e177",
         "type": "tabs",
         "children": [
           {
-            "id": "0cd79fb6f54c8702",
+            "id": "3253ca15dce64ccb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Ownership.md",
+                "file": "Books/The Shallows.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "290dad31c233771d",
+            "id": "477db793cefe9913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Ownership.md",
+                "file": "Day Planners/Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Ownership.md",
+                "file": "Books/The Shallows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Ownership.md",
+                "file": "Books/The Shallows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +137,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Ownership.md"
+                "file": "Books/The Shallows.md"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "83d8ab71b75e38bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "390210dc0d90817c",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
             }
           }
         ]
@@ -149,10 +162,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e8ff23653f5c537",
+  "active": "3253ca15dce64ccb",
   "lastOpenFiles": [
-    "Programming/The Stack and the Heap.md",
+    "Books/Template.md",
+    "Books/The Shallows.md",
+    "Day Planners/Day Planner-20221208.md",
+    "Day Planners/Day Planner-20221206.md",
+    "Day Planners/Template.md",
+    "2022-12-06.md",
     "Rust/Ownership.md",
+    "Programming/The Stack and the Heap.md",
     "2022-12-02.md",
     "AngularJS/angular.md"
   ]
