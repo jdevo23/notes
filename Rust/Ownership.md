@@ -17,3 +17,5 @@ More info on how this is implemented in [[The Stack and the Heap]]
 - There can only be one owner at a time
 - When the owner goes out of scope, the value will be dropped
 
+##### Further reading and implementation:
+[[Ownership II]]
